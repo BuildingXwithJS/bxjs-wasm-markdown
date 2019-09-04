@@ -2,7 +2,7 @@
 
 > Free open-source tutorial on rendering markdown via rust wasm module
 
-This repository contains code and related materials for [introduction to rust and wasm]() video.
+This repository contains code and related materials for [using rust to build wasm markdown renderer](https://youtu.be/ihybuCp9pnc) video.
 
 ## Project description
 
